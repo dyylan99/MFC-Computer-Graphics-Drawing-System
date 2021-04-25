@@ -1,0 +1,29 @@
+﻿  pch.cpp
+  Ccolorwide.cpp
+  Ccolorwide2.cpp
+  Ccolorwide3.cpp
+  ChildFrm.cpp
+  MainFrm.cpp
+  Testdraw.cpp
+D:\武大\课堂\C语言与C++\C++试验田\Testdraw大作业\Testdraw\TestdrawDoc.h(36): warning C4018: “<”: 有符号/无符号不匹配
+D:\武大\课堂\C语言与C++\C++试验田\Testdraw大作业\Testdraw\TestdrawDoc.h(38): warning C4018: “<”: 有符号/无符号不匹配
+D:\武大\课堂\C语言与C++\C++试验田\Testdraw大作业\Testdraw\TestdrawDoc.h(51): warning C4018: “<”: 有符号/无符号不匹配
+D:\武大\课堂\C语言与C++\C++试验田\Testdraw大作业\Testdraw\TestdrawDoc.h(53): warning C4018: “<”: 有符号/无符号不匹配
+  TestdrawDoc.cpp
+D:\武大\课堂\C语言与C++\C++试验田\Testdraw大作业\Testdraw\TestdrawDoc.h(36): warning C4018: “<”: 有符号/无符号不匹配
+D:\武大\课堂\C语言与C++\C++试验田\Testdraw大作业\Testdraw\TestdrawDoc.h(38): warning C4018: “<”: 有符号/无符号不匹配
+D:\武大\课堂\C语言与C++\C++试验田\Testdraw大作业\Testdraw\TestdrawDoc.h(51): warning C4018: “<”: 有符号/无符号不匹配
+D:\武大\课堂\C语言与C++\C++试验田\Testdraw大作业\Testdraw\TestdrawDoc.h(53): warning C4018: “<”: 有符号/无符号不匹配
+  TestdrawView.cpp
+D:\武大\课堂\C语言与C++\C++试验田\Testdraw大作业\Testdraw\TestdrawDoc.h(36): warning C4018: “<”: 有符号/无符号不匹配
+D:\武大\课堂\C语言与C++\C++试验田\Testdraw大作业\Testdraw\TestdrawDoc.h(38): warning C4018: “<”: 有符号/无符号不匹配
+D:\武大\课堂\C语言与C++\C++试验田\Testdraw大作业\Testdraw\TestdrawDoc.h(51): warning C4018: “<”: 有符号/无符号不匹配
+D:\武大\课堂\C语言与C++\C++试验田\Testdraw大作业\Testdraw\TestdrawDoc.h(53): warning C4018: “<”: 有符号/无符号不匹配
+D:\武大\课堂\C语言与C++\C++试验田\Testdraw大作业\Testdraw\TestdrawView.cpp(207): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+D:\武大\课堂\C语言与C++\C++试验田\Testdraw大作业\Testdraw\TestdrawView.cpp(208): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+D:\武大\课堂\C语言与C++\C++试验田\Testdraw大作业\Testdraw\TestdrawView.cpp(210): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\武大\课堂\C语言与C++\C++试验田\Testdraw大作业\Testdraw\TestdrawView.cpp(260): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+D:\武大\课堂\C语言与C++\C++试验田\Testdraw大作业\Testdraw\TestdrawView.cpp(261): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+D:\武大\课堂\C语言与C++\C++试验田\Testdraw大作业\Testdraw\TestdrawView.cpp(264): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  Testdraw.vcxproj -> D:\武大\课堂\C语言与C++\C++试验田\Testdraw大作业\Debug\Testdraw.exe
